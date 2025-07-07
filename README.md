@@ -1,6 +1,3 @@
-Your complete `README.md` content is ready\!
-
-````markdown
 # 📊 House Price Prediction
 
 This project focuses on predicting house prices using a regression-based machine learning approach. It involves exploratory data analysis, correlation studies, and the development of a linear regression model to estimate house prices based on various features like the number of bedrooms, bathrooms, square footage, and more.
@@ -51,19 +48,6 @@ Install the required Python packages using:
 
 ```bash
 pip install -r requirements.txt
-````
-
-**requirements.txt**
-
-```
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-```
-
------
 
 ## 📈 Results
 
