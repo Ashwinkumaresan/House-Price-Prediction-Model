@@ -46,7 +46,6 @@ The dataset used contains information about **4600 houses** including:
 
 Install the required Python packages using:
 
-```bash
 pip install -r requirements.txt
 
 ## 📈 Results
@@ -59,6 +58,11 @@ The trained Linear Regression model produced the following evaluation metrics:
   * **RMSE:** `178,618.31`
 
 -----
+
+## 🖥️ Sample Output
+
+When you run the final evaluation cell in the notebook, you’ll see output like this:
+
 
 ## 🖥️ Sample Output
 
