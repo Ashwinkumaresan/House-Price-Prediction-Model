@@ -32,13 +32,13 @@ The dataset used contains information about **4600 houses** including:
 
 ## 📌 Project Workflow
 
-1. **Data Loading** — Load and inspect the dataset using Pandas.
-2. **Exploratory Data Analysis** — Examine correlations between house price and other features.
-3. **Data Cleaning** — Drop unnecessary columns like `date`, `street`, and `country`.
-4. **Encoding** — Convert categorical values (`city`, `statezip`) into numerical codes.
-5. **Model Development** — Build and train a **Linear Regression model**.
-6. **Evaluation** — Measure the model’s performance using metrics like **R² score** and **RMSE (Root Mean Squared Error)**.
-7. **Prediction** — Predict house prices based on new input data.
+1. **Data Loading** - Load and inspect the dataset using Pandas.
+2. **Exploratory Data Analysis** - Examine correlations between house price and other features.
+3. **Data Cleaning** - Drop unnecessary columns like `date`, `street`, and `country`.
+4. **Encoding** - Convert categorical values (`city`, `statezip`) into numerical codes.
+5. **Model Development** - Build and train a **Linear Regression model**.
+6. **Evaluation** - Measure the model’s performance using metrics like **R² score** and **RMSE (Root Mean Squared Error)**.
+7. **Prediction** - Predict house prices based on new input data.
 
 ---
 
