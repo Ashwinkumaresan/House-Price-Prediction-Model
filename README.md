@@ -95,12 +95,3 @@ Root Mean Squared Error: 178618.31049410885
 4.  Run all the cells to execute the workflow and view predictions.
 
 -----
-
-## 📚 License
-
-This project is for educational purposes only.
-
-```
-
-Would you like me to save this as a downloadable `.md` file?
-```
